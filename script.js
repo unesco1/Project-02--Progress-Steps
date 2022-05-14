@@ -7,7 +7,6 @@ let i = 0;
 
 
 function next() {  
-
     myBorder[i].classList.add('animated');
     i++;
     myCercle[i].classList.add('border-act');
