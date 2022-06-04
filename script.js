@@ -90,5 +90,4 @@ function prev() {
         prevBtn.setAttribute('disabled', "disabled");
         nextBtn.removeAttribute('disabled');
     };
-
 };
